@@ -1,5 +1,6 @@
 import Carousels from "@/components/Carousel";
 import Explore from "@/components/Explore";
+import Subfooter from "@/components/SubFooter";
 import Image from "next/image";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <Carousels /> 
       <div className="relative">
         <Explore />
+        <Subfooter />
       </div>
       </div>
   );
