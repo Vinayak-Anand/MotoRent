@@ -21,7 +21,7 @@ export const PaymentMethod = async (body) => {
     const transformedItem = [
       {
         price_data: {
-          currency: "usd",
+          currency: "inr",
           product_data: {
             name: body.title,
           },
