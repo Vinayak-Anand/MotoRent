@@ -1,5 +1,6 @@
 import Carousels from "@/components/Carousel";
 import Explore from "@/components/Explore";
+import OurObjective from "@/components/OurObjective";
 import Subfooter from "@/components/SubFooter";
 import Image from "next/image";
 
@@ -10,6 +11,7 @@ export default function Home() {
       <div className="relative">
         <Explore />
         <Subfooter />
+        <OurObjective />
       </div>
       </div>
   );
