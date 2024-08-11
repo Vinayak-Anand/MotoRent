@@ -101,7 +101,7 @@ export const homeCards = [
 export const serviceList = [
   {
     id: 1,
-    text: "Experience top-level unwavering quality and extravagance with our Andhra Pradesh Airport transfers. Whether you're an independent traveler or with family, we offer a warm meet-and-greet service, baggage assistance, and continuous traffic and flight tracking for reliable arrivals. Sit back, relax, and arrive refreshed, day or night.",
+    text: "Experience top-level unwavering quality and extravagance with our Andhra Pradesh Airport transfers. Whether you &apos; re an independent traveler or with family, we offer a warm meet-and-greet service, baggage assistance, and continuous traffic and flight tracking for reliable arrivals. Sit back, relax, and arrive refreshed, day or night.",
     title: "Airport transfers",
     img: "/airport-transfer-update.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -109,7 +109,7 @@ export const serviceList = [
   },
   {
     id: 2,
-    text: "Elevate the memories of your upcoming special occasion with MotoLux. Whether it's a wedding, hen's party, or birthday celebration, add a touch of luxury with our impeccable vehicles. Need space for a large group? Arrive in ultimate style, day or night, with our 15-seater Mercedes Benz Sprinter at your service. It's not just transportation; it's an experience tailored to ensure you and your guests make a grand entrance.",
+    text: "Elevate the memories of your upcoming special occasion with MotoLux. Whether it &apos; s a wedding, hen &apos; s party, or birthday celebration, add a touch of luxury with our impeccable vehicles. Need space for a large group? Arrive in ultimate style, day or night, with our 15-seater Mercedes Benz Sprinter at your service. It &apos; s not just transportation; it &apos; s an experience tailored to ensure you and your guests make a grand entrance.",
     title: "Weddings and parties",
     img: "/parties.jpg",
     variant1: fadeIn("left", "tween", 0.2, 1),
@@ -117,7 +117,7 @@ export const serviceList = [
   },
   {
     id: 3,
-    text: "MotoLux excels in corporate, executive, and celebrity transportation, ensuring a serene and seamless journey on every ride. Whether you're meeting a valued client or attending a pivotal business appointment, our service ensures you arrive in a state of relaxation and rejuvenation, allowing you to concentrate on what truly matters. We take pride in delivering smooth, expert, and dependable experiences, without fail.",
+    text: "MotoLux excels in corporate, executive, and celebrity transportation, ensuring a serene and seamless journey on every ride. Whether you &apos; re meeting a valued client or attending a pivotal business appointment, our service ensures you arrive in a state of relaxation and rejuvenation, allowing you to concentrate on what truly matters. We take pride in delivering smooth, expert, and dependable experiences, without fail.",
     title: "Corporate transfers",
     img: "/blog-3.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -125,7 +125,7 @@ export const serviceList = [
   },
   {
     id: 4,
-    text: "From a quick parent-and-child getaway to a full-scale family adventure, let us enhance your family travel experience. Traveling with an infant? We'll handle the pre-installation of any necessary seats before we arrive. MotoLux offers a safe, reliable, and luxurious solution for all your family transportation needs. When planning your next family vacation, remember to book an airport transfer with MotoLux to ensure a peaceful and comfortable start to your journey.",
+    text: "From a quick parent-and-child getaway to a full-scale family adventure, let us enhance your family travel experience. Traveling with an infant? We &apos; ll handle the pre-installation of any necessary seats before we arrive. MotoLux offers a safe, reliable, and luxurious solution for all your family transportation needs. When planning your next family vacation, remember to book an airport transfer with MotoLux to ensure a peaceful and comfortable start to your journey.",
     title: "Family transfers",
     img: "/family-transfer.jpg",
     variant1: fadeIn("left", "tween", 0.2, 1),
@@ -133,7 +133,7 @@ export const serviceList = [
   },
   {
     id: 5,
-    text: "Andhra Pradesh ranks among India's top tourist destinations, and MotoLux offers you the ultimate freedom to explore the state's iconic attractions. Allow us to guide you along the scenic routes in sheer luxury, enabling you to enjoy the views and experiences at your own leisurely pace.",
+    text: "Andhra Pradesh ranks among India &apos; s top tourist destinations, and MotoLux offers you the ultimate freedom to explore the state &apos; s iconic attractions. Allow us to guide you along the scenic routes in sheer luxury, enabling you to enjoy the views and experiences at your own leisurely pace.",
     title: "Sightseeing",
     img: "/sightseeing.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -141,7 +141,7 @@ export const serviceList = [
   },
   {
     id: 6,
-    text: "Explore Andhra Pradesh's premier wineries and boutique breweries, spanning from the Godavari River to the Eastern Ghats. Travel seamlessly and safely between these exceptional destinations in our luxurious chauffeur-driven vehicles. Whether it's a romantic occasion with a partner or a group adventure, elevate your experience with MotoLux, and do it with unparalleled style.",
+    text: "Explore Andhra Pradesh &apos; s premier wineries and boutique breweries, spanning from the Godavari River to the Eastern Ghats. Travel seamlessly and safely between these exceptional destinations in our luxurious chauffeur-driven vehicles. Whether it &apos; s a romantic occasion with a partner or a group adventure, elevate your experience with MotoLux, and do it with unparalleled style.",
     title: "Wine tours",
     img: "/wine-tour.jpg",
     variant1: fadeIn("left", "tween", 0.2, 1),
@@ -149,7 +149,7 @@ export const serviceList = [
   },
   {
     id: 7,
-    text: "For those who demand nothing but the best, indulge yourself with our top-tier cars, ensuring your arrival exudes luxury and sophistication. Our premium fleet proudly showcases esteemed models like the BMW 7 Series, Mercedes Benz S-Class, and Audi A8, among others, renowned for their unparalleled comfort and performance in today's market. Paired with our expert drivers, you're in for a luxurious and elevated experience.",
+    text: "For those who demand nothing but the best, indulge yourself with our top-tier cars, ensuring your arrival exudes luxury and sophistication. Our premium fleet proudly showcases esteemed models like the BMW 7 Series, Mercedes Benz S-Class, and Audi A8, among others, renowned for their unparalleled comfort and performance in today &apos; s market. Paired with our expert drivers, you &apos; re in for a luxurious and elevated experience.",
     title: "Limo service",
     img: "/limo-service.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -162,19 +162,19 @@ export const insights = [
     imgUrl: "/home-car-1.jpg",
     title: "Luxury Sedan",
     subtitle:
-      "Experience the encapsulation of luxury with MotoLux's astonishing decision of premium vehicles. Whether you pick a Mercedes-Benz E-Class, BMW 5 Series, Lexus ES300, or a similar upscale model, our extent of lavishness vehicles is planned to lift every occasion. Lower yourself in the predictable blend of cutting edge development, unequaled comfort, and unparalleled sensibility all at a sensible expense. Find the allure of refinement as you set out on your cycle in style with MotoLux.",
+      "Experience the encapsulation of luxury with MotoLux &apos; s astonishing decision of premium vehicles. Whether you pick a Mercedes-Benz E-Class, BMW 5 Series, Lexus ES300, or a similar upscale model, our extent of lavishness vehicles is planned to lift every occasion. Lower yourself in the predictable blend of cutting edge development, unequaled comfort, and unparalleled sensibility all at a sensible expense. Find the allure of refinement as you set out on your cycle in style with MotoLux.",
   },
   {
     imgUrl: "/premium-sedan.jpg",
     title: "Premium Sedan",
     subtitle:
-      "MotoLux presents a handpicked determination of the best extravagance vehicles for the individuals who request only awesome. Look over the lofty BMW 7 Series, the notorious Mercedes-Benz S-Class, the modern Audi A8, or practically identical tip top models. Our vehicles are not simply include pressed; they address the zenith of current extravagance cars. With MotoLux, you'll make a stupendous entry, blowing some people's minds and delighting in outright style and solace. Lift your appearance and have an enduring effect with our impeccable fleet of luxury automobiles.",
+      "MotoLux presents a handpicked determination of the best extravagance vehicles for the individuals who request only awesome. Look over the lofty BMW 7 Series, the notorious Mercedes-Benz S-Class, the modern Audi A8, or practically identical tip top models. Our vehicles are not simply include pressed; they address the zenith of current extravagance cars. With MotoLux, you &apos; ll make a stupendous entry, blowing some people &apos; s minds and delighting in outright style and solace. Lift your appearance and have an enduring effect with our impeccable fleet of luxury automobiles.",
   },
   {
     imgUrl: "/car-3.jpg",
     title: "Luxury SUV",
     subtitle:
-      "MotoLux offers an answer for those looking for both more than adequate baggage limit and positive extravagance. Investigate our determination of premium SUVs, including the Mercedes-Benz GLE, BMW X5, and comparable upscale models. These extravagance SUVs give similar remarkable elements tracked down in our extravagance cars while offering additional room for your possessions. Express farewell to splits the difference and raise your movement experience with MotoLux's sumptuous SUVs, where style and capacity flawlessly coincide.",
+      "MotoLux offers an answer for those looking for both more than adequate baggage limit and positive extravagance. Investigate our determination of premium SUVs, including the Mercedes-Benz GLE, BMW X5, and comparable upscale models. These extravagance SUVs give similar remarkable elements tracked down in our extravagance cars while offering additional room for your possessions. Express farewell to splits the difference and raise your movement experience with MotoLux &apos; s sumptuous SUVs, where style and capacity flawlessly coincide.",
   },
   {
     imgUrl: "/car-4.jpg",
@@ -186,7 +186,7 @@ export const insights = [
     imgUrl: "/car-5.jpg",
     title: "Transporter",
     subtitle:
-      "MotoLux gladly presents the Mercedes-Benz Runner and Renault Masterbus, ideal for obliging bigger gatherings of up to eleven individuals. These lofty vehicles are the favored decision for leaders, as well as those looking for consistent transportation for air terminal exchanges, weddings, and corporate occasions. Raise your gathering travel insight with MotoLux, where extravagance, solace, and style combine. For requests, if it's not too much trouble, connect with us today. Your excursion with us starts with a straightforward call.",
+      "MotoLux gladly presents the Mercedes-Benz Runner and Renault Masterbus, ideal for obliging bigger gatherings of up to eleven individuals. These lofty vehicles are the favored decision for leaders, as well as those looking for consistent transportation for air terminal exchanges, weddings, and corporate occasions. Raise your gathering travel insight with MotoLux, where extravagance, solace, and style combine. For requests, if it &apos; s not too much trouble, connect with us today. Your excursion with us starts with a straightforward call.",
   },
 ];
 
