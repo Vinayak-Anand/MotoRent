@@ -1,5 +1,3 @@
-import connect from "@/lib/connect";
-import Order from "@/models/Order";
 const stripe = require("stripe")(
     "sk_test_51Pg5ojRoM7cPVVMnmYplIfSUmZZT7u0poi47zwzyZ7W6iWOhPp8byUIhZ51e2jTxZSSGmXA26dMsIi65HTguaXBT00jXXIbfWD"
 );

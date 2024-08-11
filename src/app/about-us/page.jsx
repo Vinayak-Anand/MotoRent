@@ -1,7 +1,7 @@
 "use client";
 import Banners from "@/components/Banners";
 import Feedback from "@/components/Feedback";
-import Subfooter from "@/components/Subfooter";
+import Subfooter from "@/components/SubFooter";
 import TitleText from "@/components/TitleText";
 import React from "react";
 
