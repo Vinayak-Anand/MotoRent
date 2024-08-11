@@ -159,7 +159,7 @@ export const serviceList = [
 
 export const insights = [
   {
-    imgUrl: "/car-1.jpg",
+    imgUrl: "/home-car-1.jpg",
     title: "Luxury Sedan",
     subtitle:
       "Experience the encapsulation of luxury with MotoLux's astonishing decision of premium vehicles. Whether you pick a Mercedes-Benz E-Class, BMW 5 Series, Lexus ES300, or a similar upscale model, our extent of lavishness vehicles is planned to lift every occasion. Lower yourself in the predictable blend of cutting edge development, unequaled comfort, and unparalleled sensibility all at a sensible expense. Find the allure of refinement as you set out on your cycle in style with MotoLux.",
